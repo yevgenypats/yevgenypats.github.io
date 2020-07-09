@@ -3,15 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://yevgenypats.github.io/categories/</loc>
+    <loc>yevgenypats.github.io/blog/</loc>
   </url>
   
   <url>
-    <loc>https://yevgenypats.github.io/</loc>
+    <loc>yevgenypats.github.io/</loc>
   </url>
   
   <url>
-    <loc>https://yevgenypats.github.io/tags/</loc>
+    <loc>yevgenypats.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>yevgenypats.github.io/tags/</loc>
   </url>
   
 </urlset>
